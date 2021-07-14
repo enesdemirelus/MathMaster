@@ -1,0 +1,45 @@
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/project enes.deps.json
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/project enes.runtimeconfig.json
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/project enes.runtimeconfig.dev.json
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/project enes/bin/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.csproj.AssemblyReference.cache
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.AssemblyInfoInputs.cache
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.AssemblyInfo.cs
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.csproj.CoreCompileInputs.cache
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/project enes/obj/Debug/net5.0/project enes.genruntimeconfig.cache
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/project enes.deps.json
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/project enes.runtimeconfig.json
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/project enes.runtimeconfig.dev.json
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/a/bin/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.csproj.AssemblyReference.cache
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.AssemblyInfoInputs.cache
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.AssemblyInfo.cs
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.csproj.CoreCompileInputs.cache
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/a/obj/Debug/net5.0/project enes.genruntimeconfig.cache
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/project enes.deps.json
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/project enes.runtimeconfig.json
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/project enes.runtimeconfig.dev.json
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/MathMaster/bin/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.csproj.AssemblyReference.cache
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.AssemblyInfoInputs.cache
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.AssemblyInfo.cs
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.csproj.CoreCompileInputs.cache
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.dll
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/ref/project enes.dll
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.pdb
+/Users/demirelnes/Desktop/MathMaster/obj/Debug/net5.0/project enes.genruntimeconfig.cache
